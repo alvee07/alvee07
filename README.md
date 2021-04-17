@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing user friendly softwares.
 - 🌱 I’m currently working on .NET technologies.
 - 💡 I'm learning JavaScript frameworks such as React.js.
-- 💞️ I’m looking to collaborate on User-Interface.
+- 💞️ I’m looking to collaborate on client software design.
 - 📫 How to reach me alvee@ualberta.ca
 
 <!---
