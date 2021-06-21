@@ -8,6 +8,8 @@
 
 ![Alvee's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvee2020&hide=contribs,prs&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvee2020)](https://github.com/alvee2020/github-readme-stats)
+
 
 <!---
 alvee2020/alvee2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
