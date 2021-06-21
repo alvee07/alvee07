@@ -6,9 +6,13 @@
 - 📫 How to reach me alvee@ualberta.ca
 - I am working on a web app with API on Azure DevOps platform. see [web api on azure devops](https://www.alveeapi.azurewebsites.net "web api")
 
-![Alvee's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvee2020&hide=contribs,prs&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvee2020)](https://github.com/alvee2020/github-readme-stats)
+<a href="https://github.com/alvee2020/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvee2020&hide=contribs,prs&show_icons=true" />
+</a>
+<a href="https://github.com/alvee2020/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvee2020)](https://github.com/alvee2020/github-readme-stats" />
+</a>
 
 
 <!---
