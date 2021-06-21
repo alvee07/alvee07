@@ -4,7 +4,7 @@
 - 💡 I'm working JavaScript frameworks such as React.js.
 - 💞️ I’m looking to collaborate on software design.
 - 📫 How to reach me alvee@ualberta.ca
-- I am working on a web app with API on Azure DevOps platform. see [web api on azure devops](https://alveeapi.azurewebsites.net "web api")
+- I am working on a web app with API on Azure DevOps platform. see [web api on azure devops](https://alveeapi.azurewebsites.net)
 
 
 <a href="https://github.com/alvee2020/github-readme-stats">
