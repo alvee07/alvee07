@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/alvee2020/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvee2020&hide=prs,issues&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvee2020&hide=contribs,prs,issues&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/alvee2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvee2020&layout=compact" />
