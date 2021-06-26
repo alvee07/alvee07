@@ -7,10 +7,10 @@
 - I am working on a web app with API on Azure DevOps platform. see [web api on azure devops](https://alveeapi.azurewebsites.net)
 
 
-<a href="https://github.com/alvee2020/github-readme-stats">
+<a href="https://github.com/alvee2020/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvee2020&hide=contribs,prs,issues&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/alvee2020/convoychat">
+<a href="https://github.com/alvee2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvee2020&layout=compact" />
 </a>
 
