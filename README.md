@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alvee
-- 👀 I’m interested in developing user friendly softwares.
-- 🌱 I’m currently working on .NET technologies in Azure DevOps.
-- 💡 I'm working JavaScript frameworks such as React.js.
-- 💞️ I’m looking to collaborate on software design.
+- 👀 I’m interested in developing maintainable software.
+- 🌱 My goto tool is dotnet technology.
+- 💡 I'm also working on JavaScript frameworks such as React.js.
+- 💞️ Most of my time goes to software design patterns.
 - 📫 How to reach me alvee@ualberta.ca
 - I am working on a web app with API on Azure DevOps platform. see [web api on azure devops](https://alveeapi.azurewebsites.net)
 
