@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Alvee
-- 👀 I’m interested in developing maintainable software.
+- 👋 Hi, I’m Alvee Akash
+- 👀 I’m developing maintainable and sustainable systems.
 - 🌱 My goto tool is dotnet technology.
 - 💡 I'm also working on JavaScript frameworks such as React.js.
-- 💞️ Most of my time goes to software design patterns.
-- 📫 How to reach me alvee@ualberta.ca
-- I am working on a web app with API on Azure DevOps platform. see [web api on azure devops](https://alveeapi.azurewebsites.net)
+- 💞️ Most of my time goes to software design patterns, advanced ms sql server, and software engineering.
+- 📫 Reach me alvee@ualberta.ca
+
+Currently, I'm building manufacturing systems using ddd & clean architecture.
 
 
 <a href="https://github.com/alvee2020/">
