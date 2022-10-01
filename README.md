@@ -5,11 +5,11 @@
 - 💞️ Most of my time goes to software design patterns, advanced ms sql server, and software engineering.
 - 📫 Reach me alvee@ualberta.ca
 
-Currently, I'm building manufacturing systems using ddd & clean architecture.
+Currently, I'm building manufacturing systems using clean architecture.
 
 
 <a href="https://github.com/alvee2020/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvee2020&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvee2020&hide=contribs,prs,issues&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/alvee2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvee2020&layout=compact&theme=radical" />
