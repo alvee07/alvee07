@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Alvee Akash
-- 👀 I’m developing maintainable and sustainable systems.
-- 🌱 My goto tool is dotnet technology.
-- 💡 I'm also working on JavaScript frameworks such as React.js.
-- 💞️ Most of my time goes to software design patterns, advanced ms sql server, and software engineering.
-- 📫 Reach me alvee@ualberta.ca
+- 👀 I develop maintainable and sustainable systems to help companies.
+- 💡 On side, I'm building Industrial IoT and programming embedded systems in C, C++.
+- 💞️ Most of my time goes to software design, advanced MS SQL server, and software engineering.
+- 🌱 My goto tool is .NET technology.
+- 📫 Reach me alvee@ualberta.ca or alvee@skybluetechnology.ca
 
-Currently, I'm building manufacturing systems using clean architecture.
+Currently, I'm building web-applications with remote team.
 
 
 <a href="https://github.com/alvee2020/">
@@ -17,7 +17,7 @@ Currently, I'm building manufacturing systems using clean architecture.
 
 
 <!---
-alvee2020/alvee2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+alvee07/alvee07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-plain.svg" title="embeddedc" alt="embeddedc" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
