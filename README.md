@@ -8,11 +8,11 @@
 Currently, I'm building web-applications with remote team.
 
 
-<a href="https://github.com/alvee2020/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvee2020&hide=contribs,prs,issues&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+<a href="https://github.com/alvee07/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvee07&hide=contribs,prs,issues&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/alvee2020">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvee2020&layout=compact&theme=radical" />
+<a href="https://github.com/alvee07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvee07&layout=compact&theme=radical" />
 </a>
 
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Visitor Count](https://profile-counter.glitch.me/alvee2020/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/alvee07/count.svg)
 
 ### Languages and Tools
 
