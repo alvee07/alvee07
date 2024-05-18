@@ -3,7 +3,7 @@
 - 💡 On side, I'm building Industrial IoT and programming embedded systems in C, C++.
 - 💞️ Most of my time goes to software design, advanced MS SQL server, and software engineering.
 - 🌱 My goto tool is .NET technology.
-- 📫 Reach me alvee@ualberta.ca or alvee@skybluetechnology.ca
+- 📫 Reach me alvee@skybluetechnology.ca
 
 Currently, I'm building web-applications with remote team.
 
