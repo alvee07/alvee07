@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alvee Akash
-- 👀 I develop maintainable and sustainable systems to help companies.
-- 💡 On side, I'm building Industrial IoT and programming embedded systems in C, C++.
-- 💞️ Most of my time goes to software design, advanced MS SQL server, and software engineering.
+- 👀 I develop easily maintainable and sustainable systems to help companies.
+- 💡 On side, I'm building (trying) Industrial IoT and programming embedded systems.
+- 💞️ Most of my time goes to software design, Microsoft tech stack, and software engineering.
 - 🌱 My goto tool is .NET technology.
 - 📫 Reach me alvee@skybluetechnology.ca
 
@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Visitor Count](https://profile-counter.glitch.me/alvee07/count.svg)
+<!---![Visitor Count](https://profile-counter.glitch.me/alvee07/count.svg) --->
+![](https://github-visitor-counter-zeta.vercel.app/api?username=alvee07&columns=8&maxflags=52&visitortype=number&size=small&bg=002338&text=42D0FF&border=002338)
 
 ### Languages and Tools
 
@@ -30,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-plain.svg" title="embeddedc" alt="embeddedc" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL" alt="MS SQL" width="40" height="40"/>&nbsp;
