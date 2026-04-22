@@ -5,7 +5,7 @@
 - 🌱 My goto tool is .NET technology.
 - 📫 Reach me alvee@skybluetechnology.ca
 
-Currently, I'm building web-applications with remote team.
+Currently, I'm building IoT based SaaS systems with remote team.
 
 
 <!---
